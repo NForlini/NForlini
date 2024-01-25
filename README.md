@@ -32,5 +32,8 @@
 <br />
 <br />
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [linkedin]: https://www.linkedin.com/in/nina-forlini/
 [GitHub]: https://github.com/NForlini
