@@ -1,16 +1,20 @@
 # Hi there, I'm Nina! 👋 
 
-## I'm an aspiring Developer whose always looking to learn!!
+## I'm a web developer whose always looking to learn!!
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Learn more coding languages
-- 🎮 Fun fact: I love to play video games and I currently run my own tournaments
+- 🎮 Fun fact: I love to play video games and I currently run tournaments
+
+  ### About Me:
+Currently learning PHP. I teach students how to code using Python, JavaScript and Scratch. 
 
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nina-forlini#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nina-forlini#gh-dark-mode-only)
+[![website]](https://ninaforlini.info)
 
 ### Languages and Tools:
 
